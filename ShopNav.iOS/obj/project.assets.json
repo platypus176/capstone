@@ -981,24 +981,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dchen\\.nuget\\packages\\": {},
+    "C:\\Users\\Owner\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dchen\\OneDrive\\Desktop\\ShopNav\\ShopNav.iOS\\ShopNav.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\Documents\\GitHub\\capstone\\ShopNav.iOS\\ShopNav.iOS.csproj",
       "projectName": "ShopNav.iOS",
-      "projectPath": "C:\\Users\\dchen\\OneDrive\\Desktop\\ShopNav\\ShopNav.iOS\\ShopNav.iOS.csproj",
-      "packagesPath": "C:\\Users\\dchen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dchen\\OneDrive\\Desktop\\ShopNav\\ShopNav.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Owner\\Documents\\GitHub\\capstone\\ShopNav.iOS\\ShopNav.iOS.csproj",
+      "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Owner\\Documents\\GitHub\\capstone\\ShopNav.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\dchen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1012,8 +1012,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\dchen\\OneDrive\\Desktop\\ShopNav\\ShopNav\\ShopNav.csproj": {
-              "projectPath": "C:\\Users\\dchen\\OneDrive\\Desktop\\ShopNav\\ShopNav\\ShopNav.csproj"
+            "C:\\Users\\Owner\\Documents\\GitHub\\capstone\\ShopNav\\ShopNav.csproj": {
+              "projectPath": "C:\\Users\\Owner\\Documents\\GitHub\\capstone\\ShopNav\\ShopNav.csproj"
             }
           }
         }
